@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(193, 193, 193);
+}
+
+img {
+    height: 40px;
+    width: auto;
+}

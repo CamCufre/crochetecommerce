@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(175, 175, 175);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+}
+
+p {
+    margin: 0%;
+}
+
+ul {
+    /* background-color: rgb(80, 80, 80); */
+    display: flex;
+    margin: 0%;
+    padding: 1em;
+}
+
+#main-links {
+    display: flex;
+    align-items: center;
+    gap: 5em;
+}
